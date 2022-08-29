@@ -5,10 +5,19 @@
 <br/><br/>
 
 <p align="center"> 
-:stethoscope:
-:star:
-:fire:
-:computer:
+:stethoscope: I'm passionate about medicine and biological sciences
+<p>
+
+<p align="center"> 
+:star: I'm passionate about programming and love creating things
+<p>
+
+<p align="center"> 
+:computer: I'm experienced with neurotech, software engineering, deep learning and computational neuroscience
+<p>
+
+<p align="center"> 
+:fire: Feel free to reach out to me for any questions or collaborations!
 <p>
 
 
