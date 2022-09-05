@@ -27,13 +27,13 @@
 Learn more about what I do!
 
 <div align="center"> 
-<a href="https://www.linkedin.com/in/priyanshu-mahey" just>
+<a href="https://www.linkedin.com/in/priyanshu-mahey" target="_blank" just>
   <img align="center" alt="Priyanshu's LinkedIN" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> 🠔 Linkedin
 <div>
  
 
 <div align="center"> 
-<a href="https://priyanshumahey.github.io/" just>
+<a href="https://priyanshumahey.github.io/" target="_blank" just>
   My personal website! (Still in development)
 <div>
   
