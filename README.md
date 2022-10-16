@@ -5,7 +5,7 @@
 <br/><br/>
 
 <p align="center"> 
-:stethoscope: I'm passionate about solving some pressing issues using programming.
+🔥: I'm passionate about solving some pressing issues using programming.
 <p>
 
 <p align="center"> 
