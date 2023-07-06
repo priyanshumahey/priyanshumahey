@@ -1,8 +1,11 @@
-Hi! I'm Priyanshu! A researcher focused on artifical intelligence and neuorobiology.
+Hello! My name is Priyanshu! My background is in deep learning and software engineering!
 
-- 🌱 I’m currently learning graph neural networks
-- 🔭 I’m currently working on Purple Lotus, Puddl and a couple of research projects!
-- 👯 I’m looking to collaborate on many different projects!
+- 🌱 I'm currently working on improving youth’s mental health through Purple Lotus!
+- 🧠 I’m currently researching deep learning and its applications into EEG and neuroscience! 
+- 💬 I’m learning more deep learning and applying my knowledge to cancer research!
+- ⚡ I’m super interested in applying deep learning models to solving major issues
+- 📫 Contact me directly if you’re interested in collaborating!
+
 
 Interested in learning more? Check out my 
 <a href="https://www.linkedin.com/in/priyanshu-mahey" target="_blank">LinkedIn</a>
